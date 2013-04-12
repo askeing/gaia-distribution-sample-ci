@@ -1,5 +1,10 @@
-# gaia-distribution-sample-ci
+gaia-distribution-sample
+========================
 
-Usage guide on https://wiki.mozilla.org/B2G/MarketCustomizations#Customization_Overview
+This is the Firefox OS distribution sample used for vendor customization.
 
-This is created for Taiwan CI server.
+Usage guide on 
+https://wiki.mozilla.org/B2G/MarketCustomizations#Customization_Overview
+
+File issues here if you meet problems directly related to this distribution sample 
+https://github.com/yurenju/gaia-distribution-sample/issues
